@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "link saver",
+    "description": "save a tab link with a click",
+    "version": "1.0",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "link.png"
+    },
+    "permissions": ["tabs"]
+  }
