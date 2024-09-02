@@ -1,6 +1,8 @@
 # LinkSaver-Extension
 
-LinkSaver-Extension is a browser extension that simplifies the process of saving and managing input data and tabs right from your browser.  
+LinkSaver-Extension is a browser extension that simplifies the process of saving and managing input data and tabs right from your browser. 
+
+
 ![Capture d’écran 2024-09-02 150449](https://github.com/user-attachments/assets/77d4d25e-9e42-4038-b258-f4d2cdb3d9ef)
 
 
