@@ -57,7 +57,7 @@ Our upcoming plans for the LinkSaver-Extension include:
 
 For support, questions, or feedback, please create an issue on our [GitHub repository](https://github.com/ilyeshr2/LinkSaver-Extension).
 
-Email us at [ilyesharrache22@gmail.com] for further inquiries.
+Email us at ilyesharrache22@gmail.com for further inquiries.
 
 ---
 
